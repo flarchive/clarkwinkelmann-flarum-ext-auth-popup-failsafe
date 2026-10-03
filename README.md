@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of clarkwinkelmann/flarum-ext-auth-popup-failsafe.** Not for installation: use [Packagist](https://packagist.org/packages/clarkwinkelmann/flarum-ext-auth-popup-failsafe) or the [upstream repository](https://github.com/clarkwinkelmann/flarum-ext-auth-popup-failsafe).
 
-**0** versions archived · Latest: [`0.1.1`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-auth-popup-failsafe/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^1.2`
+**2** versions archived · Latest: [`0.1.1`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-auth-popup-failsafe/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^1.2`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2022-09-09 | `^1.2` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-auth-popup-failsafe/tree/archive/v0.1.0) |
+| `0.1.1` | 2022-09-09 | `^1.2` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-auth-popup-failsafe/tree/archive/v0.1.1) |
 
 Catalog entry: [packages/clarkwinkelmann-flarum-ext-auth-popup-failsafe.json](https://github.com/flarchive/archive-index/blob/main/packages/clarkwinkelmann-flarum-ext-auth-popup-failsafe.json)
 
